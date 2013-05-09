@@ -1,4 +1,4 @@
-package com.conquercraft.spawn.command;
+package com.conquercraft.spawn.commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;

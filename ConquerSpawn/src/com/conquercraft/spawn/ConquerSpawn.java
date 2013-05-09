@@ -7,8 +7,8 @@ import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.permissions.Permission;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.conquercraft.spawn.command.CommandSpawn;
 import com.conquercraft.spawn.commands.CommandSetSpawn;
+import com.conquercraft.spawn.commands.CommandSpawn;
 
 public class ConquerSpawn extends JavaPlugin
 {
